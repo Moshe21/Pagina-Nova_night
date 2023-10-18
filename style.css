@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     padding: 0%;
-    background-color: #ffc400;
+    background-color: hsl(0, 0%, 87%);
 }
 
 .navbar {
@@ -28,7 +28,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #1808a5;
+    background-color: #8a7dfd;
     
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -58,12 +58,12 @@ h2{
 
 .text_1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(19, 80, 192);
 }
 .primer_cuadro{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(0, 60, 255);
-    background-color: rgb(194, 199, 197);
+    color: rgb(48, 60, 99);
+    background-color: rgb(164, 195, 235);
     margin: 10px;
     padding: 30px;
     text-align:justify;
@@ -74,7 +74,7 @@ h2{
 }
 .segundo_cuadro{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: rgb(255, 136, 0);
+    color: rgb(72, 92, 128);
     background-color: rgb(194, 199, 197);
     margin:10px;
     padding: 30px;
