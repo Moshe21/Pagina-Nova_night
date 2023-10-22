@@ -5,7 +5,7 @@ body {
     background-color: hsl(0, 0%, 87%);
 }
 
-.navbar {
+.inicio_superior {
     text-align: center;
     font-size:30px;
     background-color: #000000;
@@ -13,8 +13,7 @@ body {
     height: 200px;
     margin: 0%;
     overflow: hidden;
-    position: fixed;
-}
+}  
 
 .navbar a {
     font-size:20px;
@@ -31,13 +30,41 @@ body {
     background-color: #8a7dfd;
     
 }
+----------------------------------------------
+.img_1 {
 
-.section {
+
+    height: 998px;
+    margin-top: 32px;
+    margin-bottom: 0;
+    object-position: 0% 0%;
+    background-position: 0% 0%;
+    
+
+    
+      
+}
+
+.text_s {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(72, 92, 128);
+    position: absolute;
+    
+}
+.section_1 {
+   
+    padding: 50px;
+    font-size:30px;
+}
+
+.section_2 {
     
     padding: 50px;
     font-size:30px;
 }
-.img_1 {
+
+----------------------------------------------
+.img_2 {
     text-align:left;
     Left:100;
     top:100;
@@ -59,6 +86,7 @@ h2{
 .text_1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(72, 92, 128);
+    
 }
 .primer_cuadro{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
