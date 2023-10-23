@@ -7,7 +7,8 @@
   height: 100px;
   margin: 0%;
   overflow: hidden;
-}  
+}
+ 
 .titulo_page{
   color: rgb(255, 255, 255);
   text-align: center;
@@ -96,11 +97,14 @@
   overflow: hidden;
   margin-bottom: 100PX;
   background-position: center;
-  text-shadow: 5px 8px 12px black;
-   
-  
-
+  text-shadow: 5px 8px 12px rgb(206, 78, 78);
 }
+.fecha_hora{
+  
+  margin-top: 150px;
+    
+  } 
+
 /*--------
 
 
@@ -146,7 +150,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 .u-section-1 {
   min-height: 1030px;
-  position:relative;  
+  
 }
 
 .u-section-1 .u-image-1 {
